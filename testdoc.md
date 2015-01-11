@@ -13,5 +13,5 @@ Ok, now we are getting somewhere, sortof I guess.
 
 * We've succeeded in making a repo on Github
 * Working on it on the laptop
-* Adding a file and editing it and updating the repon on Github
+* Adding a file and editing it and updating the repo on Github
 
